@@ -2,7 +2,7 @@
 
 [DISCORD]https://discord.gg/nTRQ5uHuJS
 
-[CSDN]https://blog.csdn.net/cfl997
+[CSDN]https://blog.csdn.net/cfl997?type=blog
 
 
 
