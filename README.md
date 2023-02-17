@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[DISCORD]https://discord.gg/nTRQ5uHuJS
+
+[CSDN]https://blog.csdn.net/cfl997
+
+
+
 <!--
 **cfl997/cfl997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
